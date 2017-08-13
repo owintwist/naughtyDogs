@@ -1,0 +1,24 @@
+{
+  "name": "naughtydogs",
+  "version": "0.0.1",
+  "main": "lib/middleware.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owintwist/naughtyDogs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "badbots",
+    "bots"
+  ],
+  "author": "owintwist",
+  "license": "ISC",
+  "description": "An Express middleware for catching unwanted request with IP blacklisting.",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/owintwist/naughtyDogs/issues"
+  },
+  "homepage": "https://github.com/owintwist/naughtyDogs#readme"
+}
