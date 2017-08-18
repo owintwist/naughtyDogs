@@ -5,7 +5,11 @@ An Express middleware for catching unwanted request with IP blacklisting.
 
 ## Install
 
-```npm install https://github.com/owintwist/naughtyDogs```
+```npm install [--save] naughtyDogs```
+
+OR
+
+```npm install [--save] https://github.com/owintwist/naughtyDogs```
 
 ## Usage
 
@@ -14,3 +18,4 @@ var naughtyDogs = require('naughtydogs')
 
 app.use(naughtyDogs)
 ```
+

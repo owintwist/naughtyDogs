@@ -1,6 +1,6 @@
 {
   "name": "naughtydogs",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "main": "lib/middleware.js",
   "repository": {
     "type": "git",
@@ -11,12 +11,18 @@
   },
   "keywords": [
     "badbots",
-    "bots"
+    "bots",
+    "dronebl",
+    "dnsbs"
   ],
   "author": "owintwist",
   "license": "ISC",
   "description": "An Express middleware for catching unwanted request with IP blacklisting.",
-  "dependencies": {},
+  "dependencies": {
+    "ip": "^1.1.5",
+    "dns-sync": "^0.1.3",
+    "debug": "^3.0.0"
+  },
   "bugs": {
     "url": "https://github.com/owintwist/naughtyDogs/issues"
   },
