@@ -5,7 +5,7 @@ An Express middleware for catching unwanted request with IP blacklisting.
 
 ## Install
 
-```npm install [--save] naughtyDogs```
+```npm install [--save] naughtydogs```
 
 OR
 
