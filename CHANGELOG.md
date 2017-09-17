@@ -1,3 +1,11 @@
+0.2.0 / 2017-09-17
+==================
+
+ * Addition: log DNSBL rejection
+ * Improvement: add threat rules
+ * Improvement: use custom DNSBL (using SpamHaus SBL by default)
+ * Improvement: purge local lists every 24 hours
+
 0.1.2 / 2017-09-09
 ==================
 

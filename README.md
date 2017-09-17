@@ -1,4 +1,5 @@
-# naughtyDogs
+naughtyDogs
+===========
 
 An Express middleware for catching unwanted request with IP blacklisting.
 
@@ -15,6 +16,9 @@ OR
 
 ```javascript
 var naughtyDogs = require('naughtydogs')
+
+/// Use Custom DNSBL (optional, default 'sbl.spamhaus.org')
+app.set('dnsbl','dnsbl.dronebl.org')
 
 app.use(naughtyDogs)
 ```
