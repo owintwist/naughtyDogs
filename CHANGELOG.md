@@ -1,7 +1,7 @@
 0.2.1 / 2017-xx-xx
 ==================
 
- * Improvement: threat rules
+ * Improvement: new threat rules
 
 0.2.0 / 2017-09-17
 ==================
@@ -14,7 +14,7 @@
 0.1.2 / 2017-09-09
 ==================
 
- * Improvement: check `/var` synchronously 
+ * Improvement: check `/var` synchronously
 
 0.1.1 / 2017-08-31
 ==================
