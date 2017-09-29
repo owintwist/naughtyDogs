@@ -1,7 +1,9 @@
 0.2.1 / 2017-xx-xx
 ==================
 
- * Improvement: new threat rules
+ * Addition: block suspicious User-agent  
+ * Improvement: new threat rules  
+ * Improvement: purge local whitelist every day and local blacklist every week
 
 0.2.0 / 2017-09-17
 ==================
