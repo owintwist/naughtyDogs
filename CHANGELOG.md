@@ -1,6 +1,7 @@
 0.2.1 / 2017-xx-xx
 ==================
 
+ * Addition: permanent blacklist
  * Addition: block suspicious User-agent  
  * Addition: block suspicious queries
  * Improvement: new threat rules  
