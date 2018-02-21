@@ -4,6 +4,7 @@
  * Addition: permanent blacklist
  * Addition: block suspicious User-agent  
  * Addition: block suspicious queries
+ * Addition: bypass trusted origin based on reverseDNS
  * Improvement: new threat rules  
  * Improvement: purge local whitelist every day and local blacklist every week
 
