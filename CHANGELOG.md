@@ -1,10 +1,11 @@
 0.2.1 / 2017-xx-xx
 ==================
 
- * Addition: permanent blacklist
+ * Addition: permanent blacklist  
  * Addition: block suspicious User-agent  
- * Addition: block suspicious queries
- * Addition: bypass trusted origin based on reverseDNS
+ * Addition: block suspicious queries  
+ * Addition: bypass trusted origin based on reverseDNS  
+ * Addition: verbose blocking for crawlers who don't follow robots.txt  
  * Improvement: new threat rules  
  * Improvement: purge local whitelist every day and local blacklist every week
 
